@@ -68,9 +68,9 @@
 </a> 
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gwcloud72&show_icons=true&locale=en" alt="gwcloud72" />
-</p>
+  <img align="center" 
+src="https://github-readme-stats.vercel.app/api?username=gwcloud72&show_icons=true&locale=en" 
+alt="gwcloud72" />
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gwcloud72&" alt="gwcloud72" />
