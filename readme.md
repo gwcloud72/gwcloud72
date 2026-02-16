@@ -37,9 +37,7 @@ Spring Boot 기반의 REST API 설계와 데이터 흐름을 이해하는 데 �
 
 ## GitHub 활동
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gwcloud72&show_icons=true&hide_border=true&cache_seconds=86400" />
-</p>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gwcloud72&theme=default)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gwcloud72&hide_border=true" />
