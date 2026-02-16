@@ -1,77 +1,51 @@
-<h1 align="center">Hi 👋, I'm 동방건우 </h1>
-<h3 align="center">개발자 지망생입니다</h3>
+<h1 align="center">동방건우</h1>
+<p align="center">Backend Developer 지망</p>
 
-<!-- 👀 Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gwcloud72&label=Profile%20views&color=0e75b6&style=flat" alt="gwcloud72" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gwcloud72&label=views&color=22c55e&style=flat" />
 </p>
 
-<!-- 🛠 Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+---
 
-<a href="https://aws.amazon.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</a>
+## 소개
 
-<a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-</a>
+백엔드 개발을 공부하고 있습니다.  
+Spring Boot 기반의 REST API 설계와 데이터 흐름을 이해하는 데 집중하고 있습니다.  
+기능 구현뿐만 아니라 구조를 고민하는 개발자가 되고 싶습니다.
 
-<a href="https://www.chartjs.org" target="_blank">
-<img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
+## 기술 스택
 
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>
+### Backend
+- Java
+- Spring Boot
+- Oracle
+- Redis
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
+### Frontend
+- React
+- JavaScript
+- HTML / CSS
 
-<a href="https://grafana.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-</a>
+### Tools
+- Git / GitHub
+- AWS
+- Jenkins
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
+## GitHub 활동
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.jenkins.io" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.oracle.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-</a>
-
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gwcloud72&show_icons=true&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gwcloud72&show_icons=true&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gwcloud72&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gwcloud72" />
-</p>
+---
+
+GitHub: https://github.com/gwcloud72
+
