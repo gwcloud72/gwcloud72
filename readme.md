@@ -37,15 +37,21 @@ Spring Boot 기반의 REST API 설계와 데이터 흐름을 이해하는 데 �
 
 ## GitHub 활동
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gwcloud72&theme=default)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gwcloud72&theme=default" />
+</p>
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gwcloud72&theme=default)
-
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gwcloud72&theme=default)
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gwcloud72&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gwcloud72&theme=default" />
+</p>
 
 ---
 
-GitHub: https://github.com/gwcloud72
+## Contact
+
+- GitHub: https://github.com/gwcloud72  
+- Email: u7271@hanmail.net  
+- Open Kakao: https://open.kakao.com/o/sY1qOgQh
+
 
