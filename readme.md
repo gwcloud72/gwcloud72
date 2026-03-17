@@ -21,7 +21,6 @@ Spring Boot 기반의 REST API 설계와 데이터 흐름을 이해하는 데 �
 - Java
 - Spring Boot
 - Oracle
-- Redis
 
 ### Frontend
 - React
