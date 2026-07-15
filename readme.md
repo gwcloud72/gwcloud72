@@ -28,14 +28,10 @@ Spring Boot 기반의 REST API 설계와 데이터 흐름을 이해하는 데 �
 - Git / GitHub
 - AWS
 - Docker
----
 
----
 
 ## Contact
 
 - GitHub: https://github.com/gwcloud72  
 - Email: u7271@hanmail.net  
-- Open Kakao: https://open.kakao.com/o/sY1qOgQh
-
 
